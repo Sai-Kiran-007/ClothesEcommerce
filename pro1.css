@@ -4,6 +4,9 @@ marquee{
 	color:#ffff;
 	height:5%;
 }
+hr{
+	opacity:0.3;
+}
 #title{
 	font-family:cursive;
 	font-size:30px;
